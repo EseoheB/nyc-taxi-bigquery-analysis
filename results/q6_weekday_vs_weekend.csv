@@ -1,0 +1,3 @@
+day_type,trip_count,avg_distance,avg_fare,avg_tip
+Weekday,103003072,2.96,12.99,1.76
+Weekend,42110062,3.05,12.60,1.64
